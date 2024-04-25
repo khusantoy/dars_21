@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Preview
-![xurmo bank](https://github.com/khusantoy/xurmo-bank-creditcards/tree/main/preview/xurmobank.jpg?raw=true)
+![xurmo bank](preview/xurmobank.jpg?raw=true)
 
 ## Getting Started
 
