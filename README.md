@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Preview
-![xurmo bank](preview/xurmobank.jpg?raw=true)
+<img src="preview/xurmobank.jpg" alt="Light Mode" width="300" height="600">
 
 ## Getting Started
 
