@@ -1,4 +1,4 @@
-# dars_21
+# Xurmo Bank Creadit Cards APP
 
 A new Flutter project.
 
