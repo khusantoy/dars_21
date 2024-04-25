@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## Preview
+![xurmo bank](https://mega.nz/file/XF4CCLLI#PBGIuz75jLQ-V3rIpSSQN65DzFWVS-pzqYx24zJOqHw)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
