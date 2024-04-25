@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Preview
-![xurmo bank](https://mega.nz/file/XF4CCLLI#PBGIuz75jLQ-V3rIpSSQN65DzFWVS-pzqYx24zJOqHw)
+![xurmo bank](blob:https://mega.nz/597d8e46-5bef-49b7-9900-15d22ac5d3cc)
 
 ## Getting Started
 
